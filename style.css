@@ -1,0 +1,21 @@
+ .body {
+            background-color:bisque;
+        }
+
+        .container {
+            max-width: 1000px;
+        }
+
+        .card {
+            border: none;
+            border-radius: 15px;
+        }
+
+        .title {
+            font-weight: bold;
+        }
+
+        .table th {
+            background-color: #212529;
+            color: white;
+        }
